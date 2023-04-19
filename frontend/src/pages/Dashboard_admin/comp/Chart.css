@@ -1,0 +1,17 @@
+.chart {
+    flex              : 1;
+    padding           : 10px;
+    color             : gray;
+    height            : 480px;
+    width             : 40px;
+    margin-top        : 3rem;
+
+}
+
+.chart .title {
+    margin-top: 20px;
+}
+
+.chart .chartGrid {
+    stroke: rgb(228, 225, 225);
+}

@@ -1,0 +1,2 @@
+PORT=8000
+MONGO_URL=mongodb+srv://shubhweb:shubh8770@trial.cefxt.mongodb.net/wastebin?retryWrites=true&w=majority
